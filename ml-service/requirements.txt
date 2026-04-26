@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+statsmodels
+scipy
+pydantic
+python-multipart
+httpx
